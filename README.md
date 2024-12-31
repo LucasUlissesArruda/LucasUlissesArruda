@@ -42,3 +42,6 @@ Atualmente estou cursando Engenharia de Software e um curso técnico em Informá
 </div>
 <br>
 Sinta-se à vontade para explorar meus repositórios e projetos!
+
+
+
