@@ -33,7 +33,7 @@ Atualmente estou cursando Engenharia de Software e um curso técnico em Informá
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://instagram.com/Lucas_Arrudx">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:seuemail@exemplo.com">
