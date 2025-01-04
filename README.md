@@ -36,9 +36,10 @@ Atualmente estou cursando Engenharia de Software e um curso técnico em Informá
   <a href="https://instagram.com/Lucas_Arrudx">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:lucasulisses48@gmail.com">
+  <a href="mailto:lucasulisses48@gmail.com?subject=Assunto%20aqui&body=Escreva%20sua%20mensagem%20aqui">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
 </div>
 <br>
 Sinta-se à vontade para explorar meus repositórios e projetos!
