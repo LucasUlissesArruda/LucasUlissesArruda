@@ -27,7 +27,7 @@ Atualmente estou cursando Engenharia de Software e um curso técnico em Informá
 
 ## Vamos nos conectar?
 <div align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/lucas-ulisses-074456335/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/">
@@ -36,7 +36,7 @@ Atualmente estou cursando Engenharia de Software e um curso técnico em Informá
   <a href="https://instagram.com/Lucas_Arrudx">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="lucasulisses48@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
