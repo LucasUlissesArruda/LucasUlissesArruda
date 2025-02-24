@@ -19,11 +19,12 @@ I am a Full Stack Developer in training, with experience and studies focused on 
 
 I am currently pursuing a degree in Software Engineering and a technical course in IT, allowing me to combine theory and practice to create complete solutions.  
 
-## GitHub Stats:  
+Github Stats:
+
 <div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasUlissesArruda&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUlissesArruda&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />  
-</div>  
+</div> 
 
 ## Let's Connect!  
 <div align="center">  
