@@ -35,7 +35,4 @@ I am currently pursuing a degree in Software Engineering and a technical course 
   <a href="mailto:lucasulisses48@gmail.com?subject=Subject%20Here&body=Write%20your%20message%20here">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  
   </a>  
-</div>  
-
-<br>  
-Feel free to explore my repositories and projects!
+</div>
