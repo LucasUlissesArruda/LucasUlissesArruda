@@ -16,7 +16,7 @@ Estou focado em aprimorar minhas habilidades e busco oportunidades para colabora
 </div>  
 
 <div align="center">  
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Gif" />  
+  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5MzExODUsIm5iZiI6MTc0OTkzMDg4NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE0VDE5NTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwODE2YjhjMGUwNDZhNjRmOWFjNjZjZGJmN2JhMGE4YmQ4ZDI4MzdiYTlkYTZmOTQwMDU3MGZiZmM2OTZiMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zNUnmFHxnU3GrXyG9Y2lug42qQfvq40iyVvgIi1aOEw" />  
 </div>  
 
 ## GitHub Stats:  
