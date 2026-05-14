@@ -1,52 +1,68 @@
-# Olá, eu sou o Lucas Ulisses! 👋
-
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia e em constante aprendizado. Atualmente, estou cursando **Engenharia de Software** e um **Técnico em Informática**, buscando unir a teoria acadêmica com a prática para construir soluções robustas e eficientes.
-
-Estou focado em aprimorar minhas habilidades e busco oportunidades para colaborar em projetos desafiadores e inovadores.
- 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2236,100:0d1117&height=200&section=header&text=Lucas%20Arruda&fontSize=60&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=8b949e" />
+</div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,java,mysql,bootstrap,js,next&theme=light" /> 
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Apaixonado+por+tecnologia+%E2%9C%A8;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-<div align="center">  
-  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5MzExODUsIm5iZiI6MTc0OTkzMDg4NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE0VDE5NTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwODE2YjhjMGUwNDZhNjRmOWFjNjZjZGJmN2JhMGE4YmQ4ZDI4MzdiYTlkYTZmOTQwMDU3MGZiZmM2OTZiMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zNUnmFHxnU3GrXyG9Y2lug42qQfvq40iyVvgIi1aOEw" />  
-</div>  
+---
 
-## GitHub Stats:  
-<table>
-  <tr >
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUlissesArruda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=LucasUlissesArruda&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+## 👨‍💻 Sobre mim
 
+Desenvolvedor Full Stack apaixonado por construir soluções reais e eficientes. Cursando **Engenharia de Software** e **Técnico em Informática**, unindo teoria acadêmica com prática em projetos desafiadores.
 
-## Entre em Contato !  
-<div align="center">  
-  <a href="https://www.linkedin.com/in/lucasarruda13/">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
-  </a>  
-  <a href="https://instagram.com/Lucas_Arrudx">  
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />  
-  </a>  
-  <a href="mailto:lucasulisses48@gmail.com?subject=Subject%20Here&body=Write%20your%20message%20here">  
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  
-  </a>  
+- 🔭 Trabalhando em **Santo BPO**, **Trindade** e meu portfólio pessoal
+- 🌱 Aprofundando em **React**, **Next.js** e arquitetura de software
+- 💼 Aberto a colaborações e projetos inovadores
+- 📍 Maringá, Paraná — Brasil
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,java,mysql,react,nextjs&theme=dark" />
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasUlissesArruda/LucasUlissesArruda/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasUlissesArruda/LucasUlissesArruda/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LucasUlissesArruda/LucasUlissesArruda/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUlissesArruda&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasUlissesArruda&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+## 🌐 Entre em Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucasarruda13/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Lucas_Arrudx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:lucasulisses48@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2236,100:0d1117&height=120&section=footer" />
 </div>
