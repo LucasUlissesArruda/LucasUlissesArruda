@@ -12,7 +12,7 @@
 
 Desenvolvedor Full Stack apaixonado por construir soluções reais e eficientes. Cursando **Engenharia de Software** e **Técnico em Informática**, unindo teoria acadêmica com prática em projetos desafiadores.
 
-- 🔭 Trabalhando em **Santo BPO**, **Trindade** e meu portfólio pessoal
+- 🔭 Trabalhando no grupo **DB1** **Lughy** e meu portfólio pessoal
 - 🌱 Aprofundando em **React**, **Next.js** e arquitetura de software
 - 💼 Aberto a colaborações e projetos inovadores
 - 📍 Maringá, Paraná — Brasil
@@ -42,7 +42,7 @@ Desenvolvedor Full Stack apaixonado por construir soluções reais e eficientes.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUlissesArruda&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="160" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=LucasUlissesArruda&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasUlissesArruda&theme=github_dark_dimmed&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)" />
   &nbsp;&nbsp;
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasUlissesArruda&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" />
 </div>
